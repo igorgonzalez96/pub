@@ -1,36 +1,37 @@
 {
-  "Pub": [
+  "whisky": [
     {
       "id": 1,
-      "whisky": "red label",
+      "nome": "red label",
+      "valor": "60",
+      "ml":"750",
+      "teor alcoólico":"40%"
       
-      "whisky": "black label",
-      "whisky": "blue label ",
-      "whisky": "green label",
-
     },
+
     {
       "id": 2,
-      "cerveja": "heineken",
-      "cerveja": "brahma",
-      "cerveja": "antartica",
-      "cerveja": "corona",
-
-
+      "nome": "black label",
+      "valor": "150",
+      "ml":"750",
+      "teor alcoólico":"40%"
+      
     },
     {
       "id": 3,
-      "gin": "tanqueray",
-      "gin": "beefeater",
-      "gin": "bombay",
-      "gin": "rock's",
+      "nome": "blue label",
+      "valor": "1.200",
+      "ml":"750",
+      "teor alcoólico":"40%"
+      
     },
     {
-      "id": 4
-      "vinho": "pergola",
-      "vinho": "galioto",
-      "vinho": "chalise",
-      "vinho": "chileno"
+      "id": 4,
+      "nome": "grenn label",
+      "valor": "500",
+      "ml":"750",
+      "teor alcoólico":"40%"
+      
     }
   ]
 }
