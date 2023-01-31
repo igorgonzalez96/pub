@@ -35,3 +35,50 @@
     }
   ]
 }
+
+
+{
+  "cerveja": [
+    {
+      "id": 1,
+      "nome": "heineken",
+      "valor": "8",
+      "ml":"355",
+      "teor alcoólico":"5%"
+
+
+    },
+
+    {
+      "id": 2,
+      "nome": "brahma",
+      "valor": "7",
+      "ml":"355",
+      "teor alcoólico":"3,7%"
+
+
+    },
+
+    {
+      "id": 3,
+      "nome": "corona",
+      "valor": "7,5",
+      "ml":"330",
+      "teor alcoólico":"4,6%"
+
+
+    },
+
+    {
+      "id": 3,
+      "nome": "antartica",
+      "valor": "6,5",
+      "ml":"300",
+      "teor alcoólico":"4,6%"
+
+
+    },
+
+
+  ]
+}
