@@ -2,7 +2,6 @@
   "name": "pub",
   "version": "1.0.0",
   "type": "module",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
@@ -13,5 +12,15 @@
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorgonzalez96/pub.git"
+  },
+  "bugs": {
+    "url": "https://github.com/igorgonzalez96/pub/issues"
+  },
+  "homepage": "https://github.com/igorgonzalez96/pub#readme",
+  "description": ""
 }

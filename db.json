@@ -4,34 +4,29 @@
       "id": 1,
       "nome": "red label",
       "valor": "60",
-      "ml":"750",
-      "teor alcoólico":"40%"
-      
+      "ml": "750",
+      "teor alcoólico": "40%"
     },
-
     {
       "id": 2,
       "nome": "black label",
       "valor": "150",
-      "ml":"750",
-      "teor alcoólico":"40%"
-      
+      "ml": "750",
+      "teor alcoólico": "40%"
     },
     {
       "id": 3,
       "nome": "blue label",
       "valor": "1.200",
-      "ml":"750",
-      "teor alcoólico":"40%"
-      
+      "ml": "750",
+      "teor alcoólico": "40%"
     },
     {
       "id": 4,
       "nome": "grenn label",
       "valor": "500",
-      "ml":"750",
-      "teor alcoólico":"40%"
-      
+      "ml": "750",
+      "teor alcoólico": "40%"
     }
   ]
 }
@@ -43,42 +38,97 @@
       "id": 1,
       "nome": "heineken",
       "valor": "8",
-      "ml":"355",
-      "teor alcoólico":"5%"
-
-
+      "ml": "355",
+      "teor alcoólico": "5%"
     },
-
     {
       "id": 2,
       "nome": "brahma",
       "valor": "7",
-      "ml":"355",
-      "teor alcoólico":"3,7%"
-
-
+      "ml": "355",
+      "teor alcoólico": "3,7%"
     },
-
     {
       "id": 3,
       "nome": "corona",
       "valor": "7,5",
-      "ml":"330",
-      "teor alcoólico":"4,6%"
-
-
+      "ml": "330",
+      "teor alcoólico": "4,6%"
     },
-
     {
-      "id": 3,
+      "id": 4,
       "nome": "antartica",
       "valor": "6,5",
-      "ml":"300",
-      "teor alcoólico":"4,6%"
-
-
+      "ml": "300",
+      "teor alcoólico": "4,6%"
     },
+  ]
+}
+  
+  
 
+    {
+  "gin": [
+    {
+      "id": 1,
+      "nome": "beefeater",
+      "valor": "130",
+      "ml": "750",
+      "teor alcoólico": "47%"
+    },
+    {
+      "id": 2,
+      "nome": "bombay",
+      "valor": "115",
+      "ml": "750",
+      "teor alcoólico": "47%"
+    },
+    {
+      "id": 3,
+      "nome": "tanquery",
+      "valor": "120",
+      "ml": "750",
+      "teor alcoólico": "47,3%"
+    },
+    {
+      "id": 4,
+      "nome": "seagers",
+      "valor": "50",
+      "ml": "980",
+      "teor alcoólico": "45,3%"
+    },
+  ]
+}
 
+            {
+  "vinho": [
+    {
+      "id": 1,
+      "nome": "pergola",
+      "valor": "40",
+      "lt": "1",
+      "teor alcoólico": "10,6%"
+    },
+    {
+      "id": 2,
+      "nome": "gato negro",
+      "valor": "35",
+      "ml": "750",
+      "teor alcoólico": "13%"
+    },
+    {
+      "id": 3,
+      "nome": "del piero",
+      "valor": "20",
+      "ml": "750",
+      "teor alcoólico": "11,5%"
+    },
+    {
+      "id": 4,
+      "nome": "cantina da serra ",
+      "valor": "25",
+      "ml": "880",
+      "teor alcoólico": "11%"
+    },
   ]
 }
